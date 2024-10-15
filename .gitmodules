@@ -1,0 +1,9 @@
+[submodule "SensorNivel/lib/EspMQTTClient"]
+	path = SensorNivel/lib/EspMQTTClient
+	url = https://github.com/plapointe6/EspMQTTClient
+[submodule "SensorNivel/lib/ArduinoJson"]
+	path = SensorNivel/lib/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson
+[submodule "SensorNivel/lib/SensorBaseMqtt"]
+	path = SensorNivel/lib/SensorBaseMqtt
+	url = https://github.com/lennedy/SensorBaseMqtt3.git
